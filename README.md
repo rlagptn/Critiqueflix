@@ -40,6 +40,5 @@ Critiqueflix is a web application that allows users to add, review, and rate Net
 - **Flask**: Backend framework for handling routes and API requests.
 - **MongoDB**: Database for storing content details, reviews, and ratings.
 - **Bootstrap**: Frontend framework for a responsive and modern design.
-- **JavaScript**: For dynamic content updates and interactivity.
 - **BeautifulSoup**: For web scraping content metadata from Netflix URLs.
 - **HTML/CSS**: For structuring and styling the application.
